@@ -10,8 +10,8 @@ print() function
 f-string
 """
 
-# print("Hello World!")
-# print("Assalawma aleykum")
+print("Hello World!")
+print("Assalawma aleykum")
 
 
 # print(2+4*2)
